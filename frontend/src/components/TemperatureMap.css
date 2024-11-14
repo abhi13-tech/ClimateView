@@ -1,0 +1,13 @@
+/* frontend/src/components/TemperatureMap.css */
+.filter-controls {
+  margin-bottom: 20px;
+}
+
+.filter-controls label {
+  margin-right: 15px;
+}
+
+#map {
+  width: 100%;
+  height: 500px;
+}
